@@ -1,0 +1,17 @@
+{
+  "name": "Abhinav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6",
+    "nodemon": "^1.18.9"
+  }
+}
